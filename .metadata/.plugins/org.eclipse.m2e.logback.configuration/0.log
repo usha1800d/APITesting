@@ -212,3 +212,5 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2021-01-26 19:03:40,925 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TechMahindraTestingAPI\Tech\src\test\resources
 2021-01-26 19:04:50,244 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-01-26 19:04:50,244 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TechMahindraTestingAPI\Tech\src\main\resources
+2021-01-26 19:04:50,244 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-26 19:04:50,245 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\TechMahindraTestingAPI\Tech\src\test\resources
